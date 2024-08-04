@@ -9,17 +9,17 @@
       {
         "id": 2,
         "name": "Exhibition",
-        "event_capacity": 1
+        "meetups_capacity": 1
       },
       {
         "id": 3,
         "name": "Bazaar",
-        "event_capacity": 1
+        "meetups_capacity": 1
       },
       {
         "id": 4,
-        "name": "Conference",
-        "event_capacity": 1
+        "name": "Workshop",
+        "meetups_capacity": 1
       }
     ]
   },
@@ -33,12 +33,12 @@
       {
         "id": 1,
         "name": "Wedding",
-        "event_capacity": 1
+        "meetups_capacity": 1
       },
       {
         "id": 2,
         "name": "Exhibition",
-        "event_capacity": 1
+        "meetups_capacity": 1
       }
     ]
   },
@@ -52,27 +52,27 @@
       {
         "id": 1,
         "name": "Wedding",
-        "event_capacity": 1
+        "meetups_capacity": 1
       },
       {
         "id": 2,
         "name": "Exhibition",
-        "event_capacity": 2
+        "meetups_capacity": 2
       },
       {
         "id": 3,
         "name": "Bazaar",
-        "event_capacity": 2
+        "meetups_capacity": 2
       },
       {
         "id": 4,
         "name": "Workshop",
-        "event_capacity": 3
+        "meetups_capacity": 3
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "Conference",
-        "event_capacity": 2
+        "meetups_capacity": 2
       }
     ]
   }
